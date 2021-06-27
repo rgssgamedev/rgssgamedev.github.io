@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "The Optimized Tree",
+"productVersion": "0.1",
+"dataUrl": "rgssgamedev.data.unityweb",
+"wasmCodeUrl": "rgssgamedev.wasm.code.unityweb",
+"wasmFrameworkUrl": "rgssgamedev.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.15f1"
+}
